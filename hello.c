@@ -9,6 +9,7 @@
 int main()
 {
 	printf("hello world!");
+	printf("second");
 	return 0;
 }
 		

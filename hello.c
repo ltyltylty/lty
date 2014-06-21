@@ -10,6 +10,8 @@ int main()
 {
 	printf("hello world!");
 	printf("second");
+	printf("third");
+	printf("4");
 	return 0;
 }
 		
